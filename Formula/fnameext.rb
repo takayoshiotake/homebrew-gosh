@@ -4,7 +4,7 @@
 class Fnameext < Formula
   desc ""
   homepage ""
-  url "https://github.com/takayoshiotake/python-fnameext/archive/v1.0.0.tar.gz"
+  url "https://github.com/takayoshiotake/fnameext/archive/v1.0.0.tar.gz"
   sha256 "3861806bb9a5252dfed7096f0e051459a259e664d248ae6c2cc55d9fc8e9637f"
   # depends_on "cmake" => :build
 
