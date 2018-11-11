@@ -2,5 +2,5 @@
 
 ## Formula List
 
-- fnameext: https://github.com/takayoshiotake/python-fnameext
+- fnameext: https://github.com/takayoshiotake/fnameext
 - gosh: https://github.com/takayoshiotake/gosh
